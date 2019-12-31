@@ -1,0 +1,28 @@
+[debug] [2019-11-02T18:29:01.966Z] ----------------------------------------------------------------------
+[debug] [2019-11-02T18:29:01.971Z] Command:       C:\Program Files (x86)\nodejs\node.exe C:\Users\Pelpuo\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2019-11-02T18:29:01.972Z] CLI Version:   7.6.0
+[debug] [2019-11-02T18:29:01.972Z] Platform:      win32
+[debug] [2019-11-02T18:29:01.972Z] Node Version:  v8.11.3
+[debug] [2019-11-02T18:29:01.974Z] Time:          Sat Nov 02 2019 18:29:01 GMT+0000 (Coordinated Universal Time)
+[debug] [2019-11-02T18:29:01.974Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2019-11-02T18:29:02.067Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-11-02T18:29:02.068Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Pelpuo\Documents\Programming\ReactNative\releaf
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
